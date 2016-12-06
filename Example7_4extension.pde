@@ -1,3 +1,5 @@
+//Ethan Wang - 12/6/16
+
 int radius = 40;
 float x = 110;
 float speed = 1;
